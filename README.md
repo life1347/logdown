@@ -1,4 +1,4 @@
-logdown
+Logdown
 =======
 The themes here are based on Logdown themes with customized.
 
